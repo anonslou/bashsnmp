@@ -1,0 +1,5 @@
+Server name			IP		Uptime		RAM	useRAM	cores	CPU%	Disk usage
+srv-msk101-ap03.domain.ru	10.1.1.1	2:12:04:29.17	4 Gb	47%	2	[31;1;32m3[0m%	C:\ ( 39)Gb 44%	
+srv-msk101-lis01.domain.ru	10.1.1.2	20:17:37:08.88	33 Gb	59%	4	14%	B:\ (199)Gb [31;1;32m15[0m%	 C:\ (399)Gb [31;1;32m19[0m%	 D:\ (7)Gb [31;1;32m0[0m%	
+esx-hypervisor-01.domain.ru	10.1.1.3	0:1:58:36.00	134 Gb	[31;1;32m14[0m%	32	[31;1;32m2[0m%	/vm (551)Gb [31;1;32m0[0m%	 /vm (5588)Gb [31;1;32m7[0m%	
+linux-arch-tst-01.domain.ru	10.1.1.4	0:1:42:18.18	2 Gb	[31;1;32m3[0m%	2	[31;1;32m0[0m%	/ ( 44)Gb [31;1;32m4[0m%	 /bo (0)Gb [31;1;32m15[0m%	
